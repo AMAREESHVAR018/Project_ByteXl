@@ -52,3 +52,8 @@ Tools Needed: Browser / Burp Suite
 intercept login request through burp and change user id or parameter to admin
 
 Csrf and jwt nerla solren
+
+
+
+
+https://chatgpt.com/share/69ec6035-c6dc-8322-8d1f-9a84e092a1e6
